@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Olá, sou Diego e sou profissional de TI desde 2023, com foco em desenvolvimento backend.<br><br>
+<p align="left">Olá, sou Diego e sou profissional de TI desde 2023, com foco em desenvolvimento fullstack.<br><br>
 - 🔭 Trabalho com tecnologias voltadas ao desenvolvimento backend.<br>
 - 📚 Atualmente, estou aprimorando meus conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
 - ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos e aprender sempre mais.</p>
