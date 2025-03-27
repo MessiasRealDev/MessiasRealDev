@@ -1,30 +1,23 @@
 <div align=center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080" />
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Real.;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Real.;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=messiasrealdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasrealdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=messiasrealdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasrealdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diego-real2022/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=008080&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:messiasdiego380@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-
-###
-
-
 
 ###
 
@@ -61,9 +54,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=messiasrealdev&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=messiasrealdev&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080&section=footer" />
