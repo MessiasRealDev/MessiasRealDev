@@ -52,7 +52,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=messiasrealdev&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080&section=footer" />
