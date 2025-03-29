@@ -30,7 +30,7 @@
 - 📚 Atualmente, estou aprimorando meus conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
 - ⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos e aprender sempre mais.</p>
 
-###
+### 
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
