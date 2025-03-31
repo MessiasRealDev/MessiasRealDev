@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=008080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Real.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=008080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Messias.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
   </a>
 </div>
 
