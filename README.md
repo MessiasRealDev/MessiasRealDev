@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=800080" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=008080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Messias.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Messias.;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 ### 🌎 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/diego-real2022/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
 </div>
 
@@ -37,5 +37,6 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=008080&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=800080&section=footer" />
 </div>
+
