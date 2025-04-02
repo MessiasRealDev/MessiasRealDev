@@ -16,9 +16,6 @@
   <a href="https://www.linkedin.com/in/diego-real2022/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
-  <a href="mailto:messiasdiego380@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
-  </a>
 </div>
 
 ### 👨‍💻 Sobre Mim
@@ -37,11 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-</div>
-
-### 🔥 Streak Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=messiasrealdev&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="220" alt="Streak Stats" />
 </div>
 
 <div align="center">
