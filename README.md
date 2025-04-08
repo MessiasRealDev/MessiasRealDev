@@ -7,24 +7,67 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=messiasrealdev&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-stats.vercel.app/api?username=messiasrealdev&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chaverinh0&locale=pt-br&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaverinh0&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=pt-br&hide_border=false" height="150" alt="Estatísticas" />
 </div>
 
 ### 🌎 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/diego-real2022/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/sara-angela//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
 </div>
 
 ### 👨‍💻 Sobre Mim
 <p align="left">
-  Olá, sou Diego, profissional de TI desde 2023, focado em desenvolvimento backend.<br><br>
-  - 🚀 Sempre em busca de desafios e soluções inovadoras.<br>
-  - 📚 Aprimorando conhecimentos em Kotlin, Android Studio, MongoDB e Figma.<br>
-  - 🎯 Apaixonado por tecnologia e desenvolvimento de software.<br>
-  - ⚡ No tempo livre, gosto de explorar novas tecnologias e criar projetos desafiadores.
+  
+  - 👋 Olá, eu sou Sara Ângela
+🚀 Sobre Mim
+Profissional em transição de carreira com 7+ anos de experiência em vendas e atendimento ao cliente, agora mergulhando de cabeça no mundo da tecnologia . <br> <br>
+
+💼 Experiência anterior: Liderança, negociação, resolução de problemas e foco em resultados
+
+🌱 Atualmente: Estudando UI/UX Design e Desenvolvimento Mobile
+
+✨ Objetivo: Unir minha experiência em negociação com tecnologia para criar soluções intuitivas e centradas no usuário
+
+🛠 Habilidades Técnicas
+Design:
+🎨 Figma | Adobe Illustrator | Photoshop | Corel Draw
+
+Desenvolvimento:
+📱 Kotlin | Android Studio
+🌐 HTML | CSS | JavaScript
+🐍 Python | C | C++
+📊 MySQL | MongoDB | Power BI
+
+Metodologias:
+⚡ Scrum | Kanban | Miro | Trello
+📈 Análise SWOT | PDCA
+
+📚 Formação Acadêmica
+Gestão da Tecnologia da Informação
+
+Cibersegurança Essentials (Cisco Networking Academy)
+
+Conhecimentos em contabilidade empresarial e engenharia de requisitos
+
+🌟 Soft Skills
+Liderança e gestão de equipes
+
+Comunicação clara e persuasiva
+
+Resolução criativa de problemas
+
+Adaptabilidade e aprendizado contínuo
+
+📫 Como me encontrar
+LinkedIn
+Portfólio
+
+💡 Curiosidade: Adoro transformar desafios complexos em soluções tecnológicas elegantes!
+
+#MulheresNaTech #CarreiraEmTI #UXDesign #AndroidDev
 </p>
 
 ### 🛠 Linguagens e Ferramentas
